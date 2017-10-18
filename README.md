@@ -1,4 +1,4 @@
 # hello-world
-intro hello world github tutorial
+Intro hello world github tutorial.
 
 Learning the basics of github.
